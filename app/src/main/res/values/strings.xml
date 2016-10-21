@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="editTextNumero">Ingresa tu numero</string>
+    <string name="btnText1">Calcular</string>
+    <string name="global.message.N">Numero calculado,.1f</string>
+</resources>
